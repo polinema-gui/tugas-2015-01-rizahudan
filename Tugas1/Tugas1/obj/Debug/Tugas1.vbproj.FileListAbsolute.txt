@@ -1,0 +1,10 @@
+D:\Semester 3\Pemrograman GUI\VB\Tugas1\Tugas1\bin\Debug\Tugas1.exe.config
+D:\Semester 3\Pemrograman GUI\VB\Tugas1\Tugas1\bin\Debug\Tugas1.exe
+D:\Semester 3\Pemrograman GUI\VB\Tugas1\Tugas1\bin\Debug\Tugas1.pdb
+D:\Semester 3\Pemrograman GUI\VB\Tugas1\Tugas1\bin\Debug\Tugas1.xml
+D:\Semester 3\Pemrograman GUI\VB\Tugas1\Tugas1\obj\Debug\WindowsApplication1.Form1.resources
+D:\Semester 3\Pemrograman GUI\VB\Tugas1\Tugas1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Semester 3\Pemrograman GUI\VB\Tugas1\Tugas1\obj\Debug\Tugas1.vbproj.GenerateResource.Cache
+D:\Semester 3\Pemrograman GUI\VB\Tugas1\Tugas1\obj\Debug\Tugas1.exe
+D:\Semester 3\Pemrograman GUI\VB\Tugas1\Tugas1\obj\Debug\Tugas1.xml
+D:\Semester 3\Pemrograman GUI\VB\Tugas1\Tugas1\obj\Debug\Tugas1.pdb
